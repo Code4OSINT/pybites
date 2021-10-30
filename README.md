@@ -1,3 +1,0 @@
-# pybites
-
-Pybites: Codechalleng.es
